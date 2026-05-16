@@ -1,0 +1,28 @@
+.abou{
+    background-color:  rgba(0, 0, 0, 0.836);
+}
+
+.social-icons{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.social-icons i{
+    color: white;
+    font-size: 30px;
+    transition: 0.3s;
+}
+
+.social-icons i:hover{
+    color: aqua;
+    transform: scale(1.2);
+}
+.email a{
+    color: aqua;
+    text-decoration: double;
+}
+.contact{
+    text-align: center;
+    color:  rgba(224, 103, 224, 0.623);
+}

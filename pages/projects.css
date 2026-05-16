@@ -1,0 +1,24 @@
+.pro{
+background-color: rgba(0, 0, 0, 0.836);
+}
+
+.mah{
+    color:rgba(224, 103, 224, 0.623) ;
+    margin-bottom: 5px;
+    text-align: center;
+    
+}
+.projects img{
+    width: 200px;
+    height: 200px;
+    border-radius: none;
+    border: none;
+    object-fit: cover;
+    padding: 50px;
+    margin: 5px;
+}
+.projects{
+    display: flex;
+    justify-content: center;
+
+}

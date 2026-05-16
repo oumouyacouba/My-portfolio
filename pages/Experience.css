@@ -1,0 +1,26 @@
+.bo{
+    background-color: rgba(0, 0, 0, 0.836);
+}
+.head{
+    color: aqua;
+    text-align: center;
+}
+.level{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.logo img{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    
+}

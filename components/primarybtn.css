@@ -1,0 +1,15 @@
+.button.container{
+    display: flex;
+}
+.primarybtn{
+margin: 10px;
+background-color: rgba(224, 103, 224, 0.623);
+border-radius: 40px;
+border: none;
+font-family: italic;
+}
+.primary{
+    border-radius: 40px;
+    border: none;
+    font-family: italic;
+}
